@@ -84,3 +84,8 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Configured the short description to 'Unable to connect to Corporate VPN' and logged the detailed error description.
 - Successfully verified the dynamic parent-child link layout within the Related Records list view.
 
+
+## Phase 10: Add Cause & Resolution (In Progress)
+- Planned: Navigating to the Overview tab inside the parent incident workspace layout.
+- Planned: Inputting the root analysis into the Probable Cause tracking section.
+- Planned: Saving the diagnostic data safely inside the Service Operations Workspace.
