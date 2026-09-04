@@ -1,13 +1,11 @@
 # Project Status
 Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycle Automation project manually inside my ServiceNow Personal Developer Instance (PDI).
 
-
 ## Phase 3: Incident Record Creation (In Progress)
 - Planned: Impersonating user Beth Anglin to log ticket requirements as a Service Desk Agent.
 - Planned: Creating Incident record for user Michael Hoefer regarding Corporate VPN connectivity issues.
 - Planned: Mapping target assignment group routing directly to the Service Desk.
 ## Phase 3: Incident Record Creation.(completed)
-
 
 ## Phase 4: Incident Classification (In Progress)
 - Planned: Updating description, channel, category, and subcategory fields.
@@ -19,7 +17,6 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Selected Remote Access service and Corporate VPN offering.
 - Associated ThinkStationS20 configuration item.
 - Logged work notes and successfully used 'Assign to me'.
-
 
 ## Phase 5: Knowledge Integration (In Progress)
 - Planned: Access Agent Assist on the right side panel of the workspace.
@@ -33,7 +30,6 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Logged the required instructions in the comments: 'Follow the Steps and Resolve the Incident.'
 - Verified the link inside the Activity log and marked the helpful indicator.
 
-
 ## Phase 6: Incident Reassignment (In Progress)
 - Planned: Reassigning the active incident ticket group from Service Desk to Network.
 - Planned: Verifying that the 'Assigned to' individual agent field automatically clears.
@@ -43,7 +39,6 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Reassigned the active ticket Assignment group from Service Desk to Network.
 - Verified that the 'Assigned to' individual agent field automatically cleared into an empty box.
 - Saved the newly updated and rerouted incident record inside the Service Operations Workspace.
-
 
 ## Phase 7: Ticket Escalation and SLA Verification (In Progress)
 - Planned: Impersonating Network team agent David Loo.
@@ -55,3 +50,9 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Accessed the Service Operations Workspace and opened ticket INC0010048.
 - Utilized 'Assign to me' to populate the Assigned to field under the Network group.
 - Verified that the record description, attached Agent Assist knowledge files, and Task SLAs remain active and visible.
+
+## Phase 8: Create Change (In Progress)
+- Planned: Updating the Incident Configuration Item from ThinkStation to a PowerEdge server.
+- Planned: Changing the active incident State parameter directly to 'On Hold'.
+- Planned: Configuring the On Hold Reason tracking metric to 'Awaiting Change'.
+
