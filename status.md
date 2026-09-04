@@ -18,7 +18,11 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Associated ThinkStationS20 configuration item.
 - Logged work notes and successfully used 'Assign to me'.
 
-## Phase 5: Knowledge Integration (Completed)
-- Accessed Agent Assist on the right side panel of the workspace.
-- Filtered search context parameters explicitly for 'Knowledge Articles'.
-- Successfully attached a matching VPN troubleshooting article directly to the active incident tracking record.
+
+## Phase 5: Knowledge Integration (In Progress)
+- Planned: Access Agent Assist on the right side panel of the workspace.
+- Planned: Filter search context parameters explicitly for 'Knowledge Articles'.
+- Planned: Attach a matching VPN troubleshooting article directly to the active incident tracking record.
+- Planned: Log the required instructions in the comments: 'Follow the Steps and Resolve the Incident.'
+
+
