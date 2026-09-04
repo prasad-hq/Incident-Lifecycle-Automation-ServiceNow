@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bc3236d9836ec75076055950ceaad3fb" extends="task" label="Idea Submission" max_length="40" name="x_2081497_applic_0_idea_submission" type="collection"/>
+</database>
