@@ -89,3 +89,10 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Planned: Navigating to the Overview tab inside the parent incident workspace layout.
 - Planned: Inputting the root analysis into the Probable Cause tracking section.
 - Planned: Saving the diagnostic data safely inside the Service Operations Workspace.
+
+## Phase 10: Add Cause & Resolution (Completed)
+- Documented the Probable Cause on the Overview tab as 'PowerEdge service was suspended and required restart.'
+- Navigated to the Resolution Information section inside the classic Details form view panel.
+- Fulfilled mandatory fields by setting the Resolution Code tracking parameter to 'Workaround provided'.
+- Logged final technical resolution summary notes: 'Restarted VPN-SRV-02 service as per emergency change request.'
+- Successfully saved the record configuration data and transitioned the parent incident state directly into 'Resolved'.
