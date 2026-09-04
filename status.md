@@ -98,8 +98,9 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Successfully saved the record configuration data and transitioned the parent incident state directly into 'Resolved'.
 
 
-## Phase 10: Create Knowledge Article (Completed)
-- Triggered 'Create Knowledge' from the incident record options menu layout.
-- Assigned the document to the 'IT' Knowledge Base utilizing the 'Standard' template schema.
-- Verified the auto-populated resolution details and saved the final Knowledge Base article.
-- Confirmed the structural linkage back to the parent ticket under the Related Records list view.
+
+## Phase 10: Create Knowledge Article (In Progress)
+- Planned: Trigger 'Create Knowledge' from the incident record options menu layout.
+- Planned: Assign the document to the 'IT' Knowledge Base utilizing the 'Standard' template schema.
+- Planned: Verify the auto-populated resolution details and save the final Knowledge Base article.
+- Planned: Confirm the structural linkage back to the parent ticket under the Related Records list view.
