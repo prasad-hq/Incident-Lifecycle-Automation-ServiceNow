@@ -31,4 +31,9 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Logged the required instructions in the comments: 'Follow the Steps and Resolve the Incident.'
 - Verified the link inside the Activity log and marked the helpful indicator.
 
+## Phase 6: Incident Reassignment (In Progress)
+- Planned: Reassigning the active incident ticket group from Service Desk to Network.
+- Planned: Verifying that the 'Assigned to' individual agent field automatically clears.
+- Planned: Saving the newly routed incident record in the Service Operations Workspace.
+
 
