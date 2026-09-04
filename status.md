@@ -36,4 +36,10 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Planned: Verifying that the 'Assigned to' individual agent field automatically clears.
 - Planned: Saving the newly routed incident record in the Service Operations Workspace.
 
+## Phase 6: Watch List Update & Reassignment (Completed)
+- Successfully added Samantha Bordwell to the Watch list and Beth Anglin to the Work notes list.
+- Reassigned the active ticket Assignment group from Service Desk to Network.
+- Verified that the 'Assigned to' individual agent field automatically cleared into an empty box.
+- Saved the newly updated and rerouted incident record inside the Service Operations Workspace.
+
 
