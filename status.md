@@ -70,3 +70,10 @@ Currently configuring Phase 1 and Phase 2 requirements for the Incident Lifecycl
 - Changed the active incident record lifecycle State from In Progress to 'On Hold'.
 - Successfully configured the mandatory On Hold Reason property to 'Awaiting Change'.
 - Saved the paused record in the Service Operations Workspace to halt SLA elapsed time accumulation.
+
+
+## Phase 9: Create Child Incident (In Progress)
+- Planned: Navigating to the Related Records tab inside the parent incident workspace layout.
+- Planned: Launching a fresh sub-record form under the Child Incidents section grid.
+- Planned: Configuring short description, custom caller, and error logs for the child ticket.
+- Planned: Verifying the dynamic link layout back to the parent ticket under the Related Records list.
